@@ -43,7 +43,7 @@
     "squizlabs/php_codesniffer": "^3.1",
     "php-http/guzzle6-adapter": "^1.0"
   },
-  "provides": {
+  "provide": {
     "nexmo/client": "2.0.0"
   },
   "autoload": {
