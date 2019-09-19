@@ -54,7 +54,7 @@
       "NexmoTest\\": "test/"
     }
   },
-  "replace": {
+  "provide": {
     "nexmo/client": "^2.0"
   }
 }
